@@ -81,3 +81,4 @@
 * https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support - Koniec IE 7,8,9? - Microsoft przestaje wspierać.
 * https://github.com/yangmillstheory/chunkify - Odblokuj główny wątek, czyli asynchroniczne pętle.
 * https://github.com/adambom/parallel.js - Przetwarzanie równoległe w JS.
+* https://github.com/mathiasvr/youtube-terminal - Oglądaj filmy z YouTube w terminalu!
