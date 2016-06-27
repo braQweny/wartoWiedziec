@@ -69,9 +69,16 @@
 * https://github.com/git-tips/tips - Wskazówki do Gita na każdy dzień!
 
 
-## Warto wiedzieć - 2016/06/20
+0## Warto wiedzieć - 2016/06/2
 
 * http://javascriptplayground.com/blog/2015/03/node-command-line-tool/ - Jak stworzyć „polecenie terminalowe” w Node.js?
 * http://ng-inspector.org/ - Inspektor do aplikacji napisanych z użyciem Angular.js
 * https://github.com/sgentle/caniuse-cmd - Can I Use za pomocą jednego polecenia, nie wychodząc z terminala!
 * http://www.mattermost.org/ - Wersja open source znanego komunikatora Slack
+
+## Warto wiedzieć - 2016/06/27
+
+* https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support - Koniec IE 7,8,9? - Microsoft przestaje wspierać.
+* https://mohebifar.github.io/xto6/ - Kompilacja starej składni (ES5) do nowej (ES6) w prosty sposób.
+* https://github.com/yangmillstheory/chunkify - Odblokuj główny wątek, czyli asynchroniczne pętle.
+* https://github.com/adambom/parallel.js - Przetwarzanie równoległe w JS.
