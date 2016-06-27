@@ -79,6 +79,5 @@
 ## Warto wiedzieć - 2016/06/27
 
 * https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support - Koniec IE 7,8,9? - Microsoft przestaje wspierać.
-* https://mohebifar.github.io/xto6/ - Kompilacja starej składni (ES5) do nowej (ES6) w prosty sposób.
 * https://github.com/yangmillstheory/chunkify - Odblokuj główny wątek, czyli asynchroniczne pętle.
 * https://github.com/adambom/parallel.js - Przetwarzanie równoległe w JS.
