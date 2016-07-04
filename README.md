@@ -82,3 +82,16 @@
 * https://github.com/yangmillstheory/chunkify - Odblokuj główny wątek, czyli asynchroniczne pętle.
 * https://github.com/adambom/parallel.js - Przetwarzanie równoległe w JS.
 * https://github.com/mathiasvr/youtube-terminal - Oglądaj filmy z YouTube w terminalu!
+
+## Warto wiedzieć - 2016/07/04
+
+ * http://jonathancreamer.com/what-the-flux - Krótki artykuł wyjaśnijący co to jest Flux.
+ * https://github.com/STRML/keyMirror - Prosta biblioteka, do kopiowania nazwy klucza i użycia go jako wartości.
+ * https://github.com/felixge/node-memory-leak-tutorial - Jak znaleźć MEMORY LEAK w Node.js?
+ * https://github.com/paypal/seifnode - Nowy projekt Douglasa Crockforda: The Seif Project
+ * https://www.smashingmagazine.com/2015/02/avoid-javascript-mistakes-with-static-code-analyzer/ - Artkuł o linterach.
+ * https://medium.com/@yamalight/using-postal-js-as-flux-dispatcher-in-your-modular-react-application-with-turris-js-1355e9feacc9 - Możliwości biblioteki Postal.js
+ * http://npm-stat.com/charts.html - Wykresy paczek w npm. Świetne, aby zoobrazować popularność projektu.
+ * http://json5.org/ - Ulepszona wersja JSONa zawierająca m.in. wsparcie dla komentarzy (jest też json5-loader do webpacka)
+ * https://medium.com/webpack/webpack-its-getting-real-92c60fca1db1 - Co słuchać nowego w projekcie Webpack?
+ * https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/ - Czym jest ten Redux?
