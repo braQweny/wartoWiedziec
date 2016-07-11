@@ -95,3 +95,11 @@
  * http://json5.org/ - Ulepszona wersja JSONa zawierająca m.in. wsparcie dla komentarzy (jest też json5-loader do webpacka)
  * https://medium.com/webpack/webpack-its-getting-real-92c60fca1db1 - Co słuchać nowego w projekcie Webpack?
  * https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/ - Czym jest ten Redux?
+ * 
+ ## Warto wiedzieć - 2016/07/11
+
+ * https://www.javascript.com/ - Jak zacząć swoją przygodę z JavaScript dzięki CodeSchool.
+ * http://www.treasurearena.com/ - Gra webowa napisana w JavaScript ze świetną grafiką
+ * https://sitthetest.com/tests - Przetestuj swoje umiejętności!
+ * https://www.livecoding.tv/livestreams/ - Kodowanie na ekranie!
+ * https://github.com/gilbarbara/logos - Znajdź logo dla Twojego narzędzia developerskiego
