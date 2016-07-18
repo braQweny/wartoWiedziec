@@ -103,3 +103,10 @@
  * https://sitthetest.com/tests - Przetestuj swoje umiejętności!
  * https://www.livecoding.tv/livestreams/ - Kodowanie na ekranie!
  * https://github.com/gilbarbara/logos - Znajdź logo dla Twojego narzędzia developerskiego
+ 
+ ## Warto wiedzieć - 2016/07/19 - React.js
+
+ * https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2 - Nowa era w świecie Web-u.
+ * https://egghead.io/lessons/react-react-in-7-minutes - Szybkie wprowadzenie do React.js
+ * https://egghead.io/lessons/react-setting-up-a-react-sandbox-playground - Świetnie omówiona podst. konfiguracja środowiska.
+ * https://flipboard.com/@amite/react-js-oqvpbu5kz - Agregat news-ów ze świata React-a
