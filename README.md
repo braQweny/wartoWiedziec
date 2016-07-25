@@ -114,6 +114,7 @@
  ## Warto wiedzieć - 2016/07/25
 
 * https://twitter.com/kaycebasques/status/755817600249044992 - Ułatwienie w debugowaniu w Google Chrome.
+* https://github.com/bestiejs/platform.js - Rozpoznaj platformę na której jesteś!
 
 * ⚡️ Ostatnio  wyszła nowa wersja Google Chrome opisana wersją 52! ⚡️
 Warto zapoznać się ze zmianami, bo są interesujące, m.in:
