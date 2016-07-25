@@ -110,3 +110,14 @@
  * https://egghead.io/lessons/react-react-in-7-minutes - Szybkie wprowadzenie do React.js
  * https://egghead.io/lessons/react-setting-up-a-react-sandbox-playground - Świetnie omówiona podst. konfiguracja środowiska.
  * https://flipboard.com/@amite/react-js-oqvpbu5kz - Agregat news-ów ze świata React-a
+ * 
+ ## Warto wiedzieć - 2016/07/25
+
+* https://twitter.com/kaycebasques/status/755817600249044992 - Ułatwienie w debugowaniu w Google Chrome.
+
+* ⚡️ Ostatnio  wyszła nowa wersja Google Chrome opisana wersją 52! ⚡️
+Warto zapoznać się ze zmianami, bo są interesujące, m.in:
+➠ CSS: przeglądarka akceptuje kolory w stylu RRGGBBAA (#8) albo RGBA #4): https://www.chromestatus.com/feature/5685348285808640
+➠ ES7: mamy potęgowanie z nowej specyfikacji: https://www.chromestatus.com/feature/5461064690958336
+➠ JavaScript: kilka wersji temu pomysł z Object.observe został wycofany. W tej wersji mamy podobny feature PerformanceObserver: https://www.chromestatus.com/feature/5945504202489856
+➠ CSS: dwie nowe reguły: font-variant-caps (https://www.chromestatus.com/feature/5764191470223360) oraz font-variant-numeric (https://www.chromestatus.com/feature/5716551491649536)
