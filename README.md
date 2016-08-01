@@ -122,3 +122,9 @@ Warto zapoznać się ze zmianami, bo są interesujące, m.in:
 ➠ ES7: mamy potęgowanie z nowej specyfikacji: https://www.chromestatus.com/feature/5461064690958336
 ➠ JavaScript: kilka wersji temu pomysł z Object.observe został wycofany. W tej wersji mamy podobny feature PerformanceObserver: https://www.chromestatus.com/feature/5945504202489856
 ➠ CSS: dwie nowe reguły: font-variant-caps (https://www.chromestatus.com/feature/5764191470223360) oraz font-variant-numeric (https://www.chromestatus.com/feature/5716551491649536)
+
+## Warto wiedzieć - 2016/08/01
+
+* https://github.com/bolshchikov/js-must-watch - Lista prezentacji które musisz zobaczyć
+* https://rainsoft.io/must-know-details-about-es2016-features/ - Opis nowości w nowej specyfikacji ES2016
+* https://www.youtube.com/watch?v=DqMFX91ToLw - ECMAScript 7 - jaka jest przyszłość JavaScriptu?
