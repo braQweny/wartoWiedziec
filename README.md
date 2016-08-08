@@ -128,3 +128,10 @@ Warto zapoznać się ze zmianami, bo są interesujące, m.in:
 * https://github.com/bolshchikov/js-must-watch - Lista prezentacji które musisz zobaczyć
 * https://rainsoft.io/must-know-details-about-es2016-features/ - Opis nowości w nowej specyfikacji ES2016
 * https://www.youtube.com/watch?v=DqMFX91ToLw - ECMAScript 7 - jaka jest przyszłość JavaScriptu?
+* 
+## Warto wiedzieć - 2016/08/08
+* https://www.youtube.com/watch?v=wlG4akSDQ8g - WarsawJS #24 - Invitation
+ * https://github.com/htmlpreview/htmlpreview.github.com - Jeśli chciałbyś uruchomić projekt bez klonowania repozytorium, to skorzystaj z tego narzędzia.
+ * https://dorey.github.io/JavaScript-Equality-Table/ - Zestawienie, jak ma się porównywanie typów danych w JavaScript.
+ * http://espadrine.github.io/New-In-A-Spec/ - Co ciekawego i nowego w specyfikacjach?
+ * https://github.com/mikeric/rivets - Nie chcesz całego Agnular.js do "data-binding"? Skorzystaj z tego narzędzia!
