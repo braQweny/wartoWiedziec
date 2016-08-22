@@ -130,8 +130,18 @@ Warto zapoznać się ze zmianami, bo są interesujące, m.in:
 * https://www.youtube.com/watch?v=DqMFX91ToLw - ECMAScript 7 - jaka jest przyszłość JavaScriptu?
 * 
 ## Warto wiedzieć - 2016/08/08
-* https://www.youtube.com/watch?v=wlG4akSDQ8g - WarsawJS #24 - Invitation
+ * https://www.youtube.com/watch?v=wlG4akSDQ8g - WarsawJS #24 - Invitation
  * https://github.com/htmlpreview/htmlpreview.github.com - Jeśli chciałbyś uruchomić projekt bez klonowania repozytorium, to skorzystaj z tego narzędzia.
  * https://dorey.github.io/JavaScript-Equality-Table/ - Zestawienie, jak ma się porównywanie typów danych w JavaScript.
  * http://espadrine.github.io/New-In-A-Spec/ - Co ciekawego i nowego w specyfikacjach?
  * https://github.com/mikeric/rivets - Nie chcesz całego Agnular.js do "data-binding"? Skorzystaj z tego narzędzia!
+ * 
+ 
+## Warto wiedzieć - 2016/08/22
+
+ * https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks - dlaczego jQuery to za mało ?  
+ * https://egghead.io/lessons/angular-2-say-hello-world-to-angular-2 - say hello world to angular 2 
+ * https://johnpapa.net/ - blog Papy :)
+ * https://medium.com/javascript-refined/nan-and-typeof-36cd6e2a4e43#.mtrvja2wn - kilka słow o NaN
+ * 
+ 
